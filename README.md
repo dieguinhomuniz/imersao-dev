@@ -1,2 +1,4 @@
-# imersao-dev
-Repositório exemplo para imersão Dev
+# Oi Pessoal!!
+
+Readme do repositório da imersão Dev 7.
+Instruções abaixo.
